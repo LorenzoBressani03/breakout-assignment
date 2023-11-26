@@ -1,0 +1,27 @@
+﻿  main.c
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(150,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(253,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(257,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(258,15): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(258,29): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(260,14): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(260,26): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(277,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(299,44): warning C4047: 'function': 'const GLfloat *' differs in levels of indirection from 'GLfloat (*)[3]'
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(299,14): warning C4024: 'glColor3fv': different types for formal and actual parameter 1
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(314,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(314,33): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(316,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(316,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(290,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(290,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(290,63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(313,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(339,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(339,33): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(341,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(341,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(338,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(378,23): warning C4133: '==': incompatible types - from 'char [5]' to 'SDL_Surface *'
+C:\Users\Lorenzo\Desktop\Breakout\Breakout\main.c(400,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Breakout.vcxproj -> C:\Users\Lorenzo\Desktop\Breakout\x64\Debug\Breakout.exe
